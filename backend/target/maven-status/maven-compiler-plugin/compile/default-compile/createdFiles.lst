@@ -1,0 +1,6 @@
+com\smarthospital\config\WebConfig$1.class
+com\smarthospital\controller\PatientController.class
+com\smarthospital\SmartHospitalApplication.class
+com\smarthospital\config\WebConfig.class
+com\smarthospital\model\Patient.class
+com\smarthospital\repository\PatientRepository.class
